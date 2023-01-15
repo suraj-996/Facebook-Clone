@@ -1,4 +1,4 @@
-# facebook-clone
+# Facebook Clone
 
 ## Tech Stack
 
